@@ -36,4 +36,4 @@ The notebooks read **preassembled** CSVs with the filenames in `results/dataset_
 
 The nine notebook comparisons use random stratified five-fold splits within each resource. Full-data outlier clipping precedes splitting, and no device-grouped, time-based, or external-dataset evaluation is available. Eight of nine notebooks have non-monotonic cell execution counts. The 20% split reports are separate descriptive checks, not external holdouts; their rounded recall values are not fold averages. The audit therefore supports verification of **reported saved outputs**, not a claim of leakage-free or clinical generalization. The compilation dataset includes a CICIoMT-derived source, so these resources must not be assumed independent without a record-level provenance audit.
 
-No reuse license is supplied here because the authors have not selected one. The original dataset providers retain their own terms and citation requirements.
+
