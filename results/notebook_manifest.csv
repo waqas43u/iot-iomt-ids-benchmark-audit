@@ -1,0 +1,10 @@
+dataset,task,path,source_path_in_archive,sha256,code_cells,saved_outputs
+CICIoMT2024,Attack family,notebooks/ciciomt_wifi_mqtt/attack_family.ipynb,drive-download-20261020T084729Z-1-001/Dataset4/CIC-MoIT-2024/Multi-class-attack_type-ML.ipynb,b9da0521aedffe92f04d3d87440f85be53a54fc6cf84509a6996a50a220401d0,28,53
+CICIoMT2024,Attack name,notebooks/ciciomt_wifi_mqtt/attack_name.ipynb,drive-download-20261020T084729Z-1-002/Dataset4/CIC-MoIT-2024/Multi-class-attack-ML.ipynb,09499fbc26b3ff1360925730b13a964db6747ec21d10bc7b925be0f35025e4a1,28,54
+CICIoMT2024,Binary,notebooks/ciciomt_wifi_mqtt/binary.ipynb,drive-download-20261020T084729Z-1-002/Dataset4/CIC-MoIT-2024/Binary-ML.ipynb,ff451f97c7af7cb3241ba4ea10b7c4c33beaa36d8f5fdf983f86d045b546a0c7,31,54
+IoT-DIAD,Attack family,notebooks/iot_diad/attack_family.ipynb,drive-download-20261020T084729Z-1-003/Dataset2/Multi-class-attack_type-ML.ipynb,3c3dd036d72fc14b556fa63e8d19c55af1fe0fa99a2572d52a028875aa4e54e4,35,64
+IoT-DIAD,Attack name,notebooks/iot_diad/attack_name.ipynb,drive-download-20261020T084729Z-1-001/Dataset2/Multi-class-attack-ML.ipynb,f64adfa44771103ad94f5e3bc2b8e38e8a83602aa58a1fe6c67f262e908f0080,34,65
+IoT-DIAD,Binary,notebooks/iot_diad/binary.ipynb,drive-download-20261020T084729Z-1-001/Dataset2/Binary-ML.ipynb,90196176c4a866198e49925f6f3ea7943384a7bc092ca44226bac235ca3032b3,33,57
+TabularIoTAttack,Attack family,notebooks/tabular_iot_attack/attack_family.ipynb,drive-download-20261020T084729Z-1-001/Dataset1/Multi-class-attack_type-ML.ipynb,cca2aa18d09814bc3c82eb5d04e85386a44b2f1a0f2817329d127e56bac651a2,33,63
+TabularIoTAttack,Attack name,notebooks/tabular_iot_attack/attack_name.ipynb,drive-download-20261020T084729Z-1-003/Dataset1/Multi-class-attack-ML.ipynb,2146247381217b3b83e39d5b384c3a209f240e94961c71dcc27c99808bbaba05,33,69
+TabularIoTAttack,Binary,notebooks/tabular_iot_attack/binary.ipynb,drive-download-20261020T084729Z-1-003/Dataset1/Binary-ML.ipynb,945b5774707d688a86fb4e60f1c2ace35e770e1351af97e16979acb60a35e0cb,38,65

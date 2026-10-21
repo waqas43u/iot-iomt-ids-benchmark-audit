@@ -1,0 +1,7 @@
+dataset,task,class,model,support,recall_rounded,evaluation
+TabularIoTAttack,Binary,benign,XGBoost,10000,0.86,20pct_stratified_split
+IoT-DIAD,Binary,benign,LightGBM,77095,0.66,20pct_stratified_split
+CICIoMT2024,Binary,benign,LightGBM,10000,0.94,20pct_stratified_split
+TabularIoTAttack,Attack name,DoS DNS Flood,XGBoost,339,0.18,20pct_stratified_split
+IoT-DIAD,Attack name,DictionaryBruteForce,XGBoost,720,0.07,20pct_stratified_split
+CICIoMT2024,Attack name,Vulnerability Scan,Random Forest,628,0.66,20pct_stratified_split

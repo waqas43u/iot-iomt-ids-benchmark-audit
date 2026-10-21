@@ -1,0 +1,94 @@
+dataset,task,model,accuracy,weighted_precision,weighted_recall,weighted_f1,source_notebook
+TabularIoTAttack,Binary,Logistic Regression,0.98646,0.986315,0.98646,0.985519,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,Random Forest,0.992608,0.992499,0.992608,0.992405,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,XGBoost,0.992667,0.992628,0.992667,0.992413,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,KNN,0.992258,0.992133,0.992258,0.992039,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,Naive Bayes,0.768192,0.955236,0.768192,0.834674,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,Decision Tree,0.992087,0.991971,0.992087,0.991845,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,Gradient Boosting,0.992244,0.992226,0.992244,0.991945,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,AdaBoost,0.980194,0.980597,0.980194,0.977612,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,Extra Trees,0.992137,0.991982,0.992137,0.991959,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,LightGBM,0.992656,0.99261,0.992656,0.992406,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Binary,CatBoost,0.992453,0.992427,0.992453,0.992175,drive-download-20261020T084729Z-1-003\Dataset1\Binary-ML.ipynb
+TabularIoTAttack,Attack name,Logistic Regression,0.7917,0.783049,0.7917,0.781645,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,Random Forest,0.853117,0.853182,0.853117,0.852257,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,XGBoost,0.875486,0.881848,0.875486,0.873698,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,KNN,0.855489,0.854493,0.855489,0.853046,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,Naive Bayes,0.501671,0.471611,0.501671,0.443548,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,Decision Tree,0.783221,0.787707,0.783221,0.766022,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,AdaBoost,0.250148,0.140538,0.250148,0.152189,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,Extra Trees,0.849638,0.849323,0.849638,0.848641,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,LightGBM,0.282876,0.371373,0.282876,0.273547,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack name,CatBoost,0.861143,0.868197,0.861143,0.856937,drive-download-20261020T084729Z-1-003\Dataset1\Multi-class-attack-ML.ipynb
+TabularIoTAttack,Attack family,Logistic Regression,0.842528,0.845241,0.842528,0.841339,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,Random Forest,0.948215,0.947922,0.948215,0.947872,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,XGBoost,0.952404,0.953246,0.952404,0.951957,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,KNN,0.942635,0.942092,0.942635,0.942066,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,Naive Bayes,0.535809,0.55486,0.535809,0.525528,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,Decision Tree,0.902856,0.904377,0.902856,0.902313,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,Gradient Boosting,0.939593,0.939998,0.939593,0.938971,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,AdaBoost,0.469992,0.366108,0.469992,0.385018,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,Extra Trees,0.945437,0.945116,0.945437,0.945152,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,LightGBM,0.939453,0.94109,0.939453,0.939309,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+TabularIoTAttack,Attack family,CatBoost,0.93907,0.939724,0.93907,0.938439,drive-download-20261020T084729Z-1-001\Dataset1\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Binary,Logistic Regression,0.790426,0.741628,0.790426,0.736125,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,Random Forest,0.870227,0.870175,0.870227,0.8702,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,XGBoost,0.872858,0.869877,0.872858,0.871106,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,KNN,0.860629,0.861019,0.860629,0.860821,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,Naive Bayes,0.61321,0.772602,0.61321,0.649124,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,Decision Tree,0.840843,0.842873,0.840843,0.841761,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,Gradient Boosting,0.848026,0.839325,0.848026,0.841688,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,AdaBoost,0.790594,0.625039,0.790594,0.698136,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,Extra Trees,0.864224,0.864498,0.864224,0.864359,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,LightGBM,0.873281,0.870229,0.873281,0.87147,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Binary,CatBoost,0.862048,0.856716,0.862048,0.858569,drive-download-20261020T084729Z-1-001\Dataset2\Binary-ML.ipynb
+IoT-DIAD,Attack name,Logistic Regression,0.64153,0.617926,0.64153,0.610648,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,Random Forest,0.763713,0.759399,0.763713,0.760471,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,XGBoost,0.779011,0.794568,0.779011,0.766306,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,KNN,0.761607,0.760493,0.761607,0.754558,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,Naive Bayes,0.37944,0.512193,0.37944,0.386129,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,Decision Tree,0.698487,0.722331,0.698487,0.680604,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,AdaBoost,0.524033,0.407198,0.524033,0.453241,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,Extra Trees,0.754595,0.750825,0.754595,0.751987,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,LightGBM,0.76307,0.769135,0.76307,0.751947,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack name,CatBoost,0.749803,0.774651,0.749803,0.73129,drive-download-20261020T084729Z-1-001\Dataset2\Multi-class-attack-ML.ipynb
+IoT-DIAD,Attack family,Logistic Regression,0.624717,0.623207,0.624717,0.60289,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,Random Forest,0.772285,0.774804,0.772285,0.773005,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,XGBoost,0.782971,0.802435,0.782971,0.78154,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,KNN,0.768194,0.776635,0.768194,0.768194,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,Naive Bayes,0.404862,0.50177,0.404862,0.440801,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,Decision Tree,0.70923,0.755129,0.70923,0.706484,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,AdaBoost,0.569245,0.544659,0.569245,0.525268,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,Extra Trees,0.763336,0.765488,0.763336,0.764012,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,LightGBM,0.784389,0.800332,0.784389,0.783916,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+IoT-DIAD,Attack family,CatBoost,0.753083,0.779471,0.753083,0.749538,drive-download-20261020T084729Z-1-003\Dataset2\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Binary,Logistic Regression,0.979391,0.979494,0.979391,0.97944,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,Random Forest,0.992608,0.992568,0.992608,0.992585,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,XGBoost,0.992379,0.992331,0.992379,0.99235,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,KNN,0.986338,0.986278,0.986338,0.986306,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,Naive Bayes,0.880432,0.952519,0.880432,0.903148,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,Decision Tree,0.988698,0.988527,0.988698,0.988569,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,AdaBoost,0.978686,0.978074,0.978686,0.978245,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,Extra Trees,0.991513,0.99148,0.991513,0.991495,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,LightGBM,0.992682,0.992644,0.992682,0.99266,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Binary,CatBoost,0.991234,0.991172,0.991234,0.991196,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Binary-ML.ipynb
+CICIoMT2024,Attack name,Logistic Regression,0.927021,0.920825,0.927021,0.916236,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,Random Forest,0.968871,0.968529,0.968871,0.96799,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,XGBoost,0.968576,0.968453,0.968576,0.967831,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,KNN,0.943751,0.94315,0.943751,0.94242,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,Naive Bayes,0.746931,0.800638,0.746931,0.711261,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,Decision Tree,0.945278,0.946087,0.945278,0.942115,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,AdaBoost,0.332845,0.257153,0.332845,0.206476,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,Extra Trees,0.967314,0.966862,0.967314,0.96651,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,LightGBM,0.436425,0.507425,0.436425,0.399216,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack name,CatBoost,0.963037,0.962027,0.963037,0.96156,drive-download-20261020T084729Z-1-002\Dataset4\CIC-MoIT-2024\Multi-class-attack-ML.ipynb
+CICIoMT2024,Attack family,Logistic Regression,0.963159,0.963056,0.963159,0.962509,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,Random Forest,0.982328,0.981886,0.982328,0.981395,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,XGBoost,0.982012,0.981623,0.982012,0.981117,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,KNN,0.972268,0.971994,0.972268,0.971825,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,Naive Bayes,0.91494,0.927673,0.91494,0.916879,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,Decision Tree,0.974051,0.974445,0.974051,0.97347,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,AdaBoost,0.858776,0.846154,0.858776,0.83418,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,Extra Trees,0.981589,0.981211,0.981589,0.980877,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,LightGBM,0.982818,0.982367,0.982818,0.981907,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
+CICIoMT2024,Attack family,CatBoost,0.979101,0.978958,0.979101,0.97825,drive-download-20261020T084729Z-1-001\Dataset4\CIC-MoIT-2024\Multi-class-attack_type-ML.ipynb
